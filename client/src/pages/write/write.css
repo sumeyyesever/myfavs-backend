@@ -1,0 +1,52 @@
+.write-container{
+    padding: 20px 50px;
+    height: calc(100vh - 100px);
+}
+
+.write-form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 70%;
+    margin: auto;
+}
+
+.title-input, .cat-input{
+    height: 40px;
+    padding: 5px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    border-bottom: 1.2px solid black;
+}
+
+.stars-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.stars-container label{
+    display: flex;
+    gap: 5px;
+}
+
+.write-textarea{
+    outline: none;
+    padding: 10px;
+    font-size: 18px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.submit-button{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(203, 202, 202);
+    color: black;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+
+}

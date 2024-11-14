@@ -1,0 +1,21 @@
+.postcard-container{
+    padding: 20px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.postcard-cat{
+    color: gray;
+}
+
+.postcard-par{
+    font-size: 17px;
+    letter-spacing: 0.7px;
+}
+
+.postcard-buttons{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+}

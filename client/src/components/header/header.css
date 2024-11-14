@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    background-color: #0c405a;
+    padding: 0 20px;
+}
+
+.header-logo{
+    color: white;
+    font-size: 30px;
+    font-family: "Rowdies", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.write-button{
+    height: 30px;
+    width: 80px;
+    background-color: rgb(203, 202, 202);
+    color: black;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}

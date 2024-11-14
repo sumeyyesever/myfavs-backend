@@ -1,0 +1,7 @@
+.footer-container{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    color: gray;
+    font-size: 13px;
+}
