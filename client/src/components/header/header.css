@@ -5,6 +5,8 @@
     height: 70px;
     background-color: #0c405a;
     padding: 0 20px;
+    position: sticky;
+    top: 0;
 }
 
 .header-logo{
